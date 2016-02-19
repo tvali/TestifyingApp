@@ -1,0 +1,21 @@
+{
+	"name": "api",
+	"engines": {
+		"node": "0.12.x"
+	},
+	"scripts": {
+		"start": "node index.js"
+	},
+	"dependencies": {
+		"express": "^4.10.2",
+		"body-parser": "*",
+		"aws-sdk": "*",
+		"aws-dynamodb": "*",
+		"bcrypt-nodejs": "*",
+		"cors": "*",
+		"mimelib": "*",
+		"ua-parser": "*",
+		"redis": "0.12.x",
+		"async": "*"
+	}
+}
