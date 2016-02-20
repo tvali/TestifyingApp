@@ -1,0 +1,13 @@
+{
+  "name": "keptify-lambda-paidon-import",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "node-lambda": "0.1.5",
+	"aws-dynamodb": "*",
+	"request": "*",
+	"csv": "*",
+	"memcached": "*"
+  }
+}

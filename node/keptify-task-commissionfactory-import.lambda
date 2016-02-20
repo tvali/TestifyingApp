@@ -1,0 +1,12 @@
+{
+    "PATH": "./lambda/all",
+    "AWS_KEY": "AKIAJQ4VVBL5RZOGD6IA",
+    "AWS_SECRET": "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",
+    "AWS_REGION": "eu-west-1",
+
+    "Role": "arn:aws:iam::621145810544:role/lambda_exec_role",
+    "Handler": "lambda-task-commissionfactory-import.handler",
+    "MemorySize": "256",
+    "Timeout": "12",
+    "Description": ""
+}
